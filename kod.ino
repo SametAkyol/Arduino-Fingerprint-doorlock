@@ -21,7 +21,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 const char name_3[] PROGMEM = "Ozge";
 const char name_0[] PROGMEM = "Serdar";
 const char name_1[] PROGMEM = "Samet";
-const char name_2[] PROGMEM = "Emir";
+const char name_2[] PROGMEM = "Mert";
 const char name_4[] PROGMEM = "Sinan";
 const char name_5[] PROGMEM = "Omer";
 const char *const name_table[] PROGMEM = {name_0, name_1, name_2, name_3, name_4, name_5};
